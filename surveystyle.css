@@ -1,0 +1,40 @@
+body {
+    background-color: #a8d5d5;
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form {
+    background-color: white;
+    width: 750px;
+    /* margin: 200px; */
+    margin: auto;
+    padding: 30px;
+}
+
+.form p {
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    width: 320px;
+    text-align: right;
+    margin: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select {
+    width: 250px;
+    padding: 7px;
+}
+
+.radio,
+.check {
+    display: inline-block;
+}
