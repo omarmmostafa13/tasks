@@ -1,0 +1,38 @@
+body {
+    background-color: lightblue;
+}
+
+.form {
+    width: 430px;
+    margin: 50px auto;
+    background-color: white;
+    padding-bottom: 30px;
+}
+
+h1 {
+    background-color: #176084;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 0;
+}
+
+label {
+    display: block;
+    margin: 15px 35px 5px;
+}
+
+input, select {
+    width: 360px;
+    height: 35px;
+    margin-left: 35px;
+}
+
+button {
+    width: 360px;
+    height: 40px;
+    margin: 25px 35px 0;
+    background-color: #2998cf;
+    color: white;
+    border: 0;
+}
